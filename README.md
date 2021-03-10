@@ -1,3 +1,3 @@
 # django-blog-site
 
-Blog web development project in Django
+Simple blog web development project in Django using class-based views
